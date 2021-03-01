@@ -1,5 +1,3 @@
-
-
 name: xiaopu.js
 
 on:
@@ -22,7 +20,7 @@ jobs:
     steps:
       - name: Checkout
         run: |
-          git clone https://github.com/thormuxin/JavaScript.git ~/JavaScript
+          git clone https://github.com/thormuxin/jave.git ~/jave
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:
@@ -30,12 +28,12 @@ jobs:
       - name: npm install
         if: env.XL_URL
         run: |
-          cd ~/JavaScript
+          cd ~/jave
           npm install
       - name: '运行 【xiaopu.js】'
         if: env.XL_URL
         run: |
-          cd ~/JavaScript
+          cd ~/jave
           node Task/xiaopu.js
         env:
           
