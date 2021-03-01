@@ -1,12 +1,11 @@
 
-*/
 
 name: youth_read.js
 
 on:
   workflow_dispatch:
   schedule:
-     - cron: '20 15 */2 * * *'
+     - cron: '0 */2 * * *'
   watch:
     types: started
 jobs:
