@@ -1,9 +1,9 @@
-name: xiaopu.js
+name: bububao.js
 
 on:
   workflow_dispatch:
   schedule:
-     - cron: '*/30 * * * *'
+     - cron: '0,30 * * * *'
   watch:
     types: started
 jobs:
@@ -11,12 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     env:
-        XP_refreshTOKEN: ${{ secrets.XP_refreshTOKEN}}
-        XP_phone: ${{ secrets.XP_phone }}
-        XP_CASH: ${{ secrets.XP_CASH }} 
-        XP_live: ${{ secrets.XP_live }}
-        XP_sms: ${{ secrets.XP_sms }}		
-        
+        BBB_bububaoTOKEN: ${{ secrets.BBB_bububaoTOKEN}}
+        BBB_CASH: ${{ secrets.BBB_CASH }}
+
     steps:
       - name: Checkout
         run: |
@@ -30,11 +27,11 @@ jobs:
         run: |
           cd ~/jave
           npm install
-      - name: '运行 【xiaopu.js】'
+      - name: '运行 【bububao.js】'
         if: env.XL_URL
         run: |
           cd ~/jave
-          node Task/xiaopu.js
+          node Task/bububao.js
         env:
           
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
