@@ -1,116 +1,116 @@
 /* ziye 
-github鍦板潃 https://github.com/ziye66666
-TG棰戦亾鍦板潃  https://t.me/ziyescript
-TG浜ゆ祦缇�   https://t.me/joinchat/AAAAAE7XHm-q1-7Np-tF3g
-boxjs閾炬帴  https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ziye.boxjs.json
-杞浇璇峰娉ㄤ釜鍚嶅瓧锛岃阿璋�
+github地址 https://github.com/ziye66666
+TG频道地址  https://t.me/ziyescript
+TG交流群   https://t.me/joinchat/AAAAAE7XHm-q1-7Np-tF3g
+boxjs链接  https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ziye.boxjs.json
+转载请备注个名字，谢谢
 
-鈿狅笍绗戣氨
-鑴氭湰杩愯涓€娆�   
-鍒欒繍琛�6娆¤棰� 1娆￠噾铔� 1娆＄洿鎾紙鐩存挱榛樿鍏抽棴锛屼笖鍦�8鐐瑰埌23鐐规湁鏁堬級
+⚠️笑谱
+脚本运行一次   
+则运行6次视频 1次金蛋 1次直播（直播默认关闭，且在8点到23点有效）
 
-1.15 璋冩暣閲戣泲寤惰繜涓�60绉�
-1.17 澧炲姞ck澶辨晥鎻愰啋锛屼互鍙婇噾甯佹弧棰濆仠姝�
-1.27 绗戣氨鎭㈠锛屾椿鍔╥d284
-1.27-2 澧炲姞鐪嬬洿鎾姛鑳斤紝榛樿鍏抽棴锛岃缃甃IVE鏉ュ紑鍚�  濡� 璁剧疆LIVE 涓� 60 鍒欏紑鍚洿鎾紝骞朵笖娆℃暟杈惧埌60娆″仠姝�
-1.27-3 璋冩暣鐩存挱杩愯娆℃暟锛岃繍琛屼竴娆¤剼鏈紝鎵ц6娆＄洿鎾�
-1.27-4 璋冩暣绛栫暐锛�6娆¤棰�1娆￠噾铔�1娆＄洿鎾�
-1.28 淇鏀剁泭鍒楄〃闂
-1.29 娲诲姩id302
-1.30 淇娲诲姩id棰戠箒鍙樺姩闂锛屼慨澶嶉噾铔嬭棰慽d
-1.30 瑙ｅ喅ck澶辨晥闂
-1.30-3 澧炲姞鎻愮幇
-1.31 澧炲姞180绉掍换鍔�,浼樺厛鐩存挱锛屼慨鏀圭洿鎾噾甯佹樉绀�
-1.31-2 璋冩暣鍒ゅ畾
-2.1 澧炲姞CK鑾峰彇鏃堕棿
-2.2 浼樺寲
-2.3 淇鐩存挱闂锛岄噰鐢ㄧ湡瀹炵洿鎾璱d
-2.3 璁剧疆LIVE 涓�61 鏃�  鍗曡窇鐩存挱
-2.3 淇閿欒锛屼慨澶嶇洿鎾敹鐩婃樉绀�
-2.4 淇閲戣泲闂锛屽鍔犺棰戞敹鐩婄粺璁★紝澧炲姞涓婇檺鍒ゅ畾锛岃揪鍒颁笂闄愪互鍙�19鐐瑰悗涓嶆墽琛岃棰戯紝
-2.4 鐩存挱闄愬埗涓�30  璁剧疆LIVE涓�0 涓嶈窇鐩存挱锛�1璺戠洿鎾拰瑙嗛锛�2鍗曡窇鐩存挱
-2.5 澧炲姞棣栨瑙嗛楠岃瘉锛岀伆鍙风洿鎺ュ仠姝㈣棰�
-2.6 淇鍒ゅ畾閿欒,澧炲姞surge鑾峰彇token閲嶅啓
-2.7 澧炲姞绾㈠寘闆紝璁剧疆LIVE绛変簬3 寮€鍚�
-2.7-2 璋冩暣绾㈠寘闆ㄨ繍琛屾満鍒�
-2.8 淇鏃犱汉鐩存挱鍑虹幇鐨勯敊璇�
-2.8-2 淇绾㈠寘闆ㄧ粨鏉熸姤閿�
-2.8-3 澧炲姞閫氳繃楠岃瘉鐮佽幏鍙杢oken鍔熻兘锛屽苟涓斿唴缃甴eader锛屾柊浜鸿缃甃IVE涓�888
-2.8-4 淇閿欒
-2.10 淇绾㈠寘闆ㄩ棶棰橈紝LIVE璁剧疆3  鍚姩绾㈠寘闆ㄦ椿鍔紝淇鐗堟湰闂
-2.10-2 绉婚櫎绾㈠寘闆ㄦā鍧�
-2.11 绉婚櫎瑙嗛鏃堕棿闄愬埗锛孡IVE璁剧疆666鍋氭柊浜�180绉掍换鍔�
-2.26 閫傞厤鐩存挱涓婇檺20娆�
+1.15 调整金蛋延迟为60秒
+1.17 增加ck失效提醒，以及金币满额停止
+1.27 笑谱恢复，活动id284
+1.27-2 增加看直播功能，默认关闭，设置LIVE来开启  如 设置LIVE 为 60 则开启直播，并且次数达到60次停止
+1.27-3 调整直播运行次数，运行一次脚本，执行6次直播
+1.27-4 调整策略，6次视频1次金蛋1次直播
+1.28 修复收益列表问题
+1.29 活动id302
+1.30 修复活动id频繁变动问题，修复金蛋视频id
+1.30 解决ck失效问题
+1.30-3 增加提现
+1.31 增加180秒任务,优先直播，修改直播金币显示
+1.31-2 调整判定
+2.1 增加CK获取时间
+2.2 优化
+2.3 修复直播问题，采用真实直播id
+2.3 设置LIVE 为61 时  单跑直播
+2.3 修复错误，修复直播收益显示
+2.4 修复金蛋问题，增加视频收益统计，增加上限判定，达到上限以及19点后不执行视频，
+2.4 直播限制为30  设置LIVE为0 不跑直播，1跑直播和视频，2单跑直播
+2.5 增加首次视频验证，灰号直接停止视频
+2.6 修复判定错误,增加surge获取token重写
+2.7 增加红包雨，设置LIVE等于3 开启
+2.7-2 调整红包雨运行机制
+2.8 修复无人直播出现的错误
+2.8-2 修复红包雨结束报错
+2.8-3 增加通过验证码获取token功能，并且内置header，新人设置LIVE为888
+2.8-4 修复错误
+2.10 修复红包雨问题，LIVE设置3  启动红包雨活动，修复版本问题
+2.10-2 移除红包雨模块
+2.11 移除视频时间限制，LIVE设置666做新人180秒任务
+2.26 适配直播上限20次
 
-鈿狅笍涓€鍏�1涓綅缃� 1涓猚k  馃憠 5鏉� Secrets 
-澶氳处鍙锋崲琛�
-
-
-鈿狅笍鏂规硶涓€
-
-绗竴姝� 杩涘叆绗戣氨 閫夋嫨鎵嬫満鍙风櫥闄嗭紝杈撳叆鎵嬫満鍙凤紝鐐瑰嚮鑾峰彇楠岃瘉鐮�
-
-绗簩姝� 鈿狅笍杩涘叆boxjs锛堝叾浠栧钩鍙板垯杈撳叆瀵瑰簲鐜鍙橀噺锛�  杈撳叆褰撳墠璐﹀彿搴忓彿   杈撳叆鎵嬫満鍙�  鍜�  楠岃瘉鐮�
-
-绗笁姝� 杩愯js  鎵嬫満鍒欒嚜鍔ㄨ幏鍙杢oken锛堝叾浠栧钩鍙板垯澶嶅埗token锛屽～鍐欑幆澧冨彉閲忥級  鐒跺悗鍥炲埌boxjs 淇敼楠岃瘉鐮佷负0
+⚠️一共1个位置 1个ck  👉 5条 Secrets 
+多账号换行
 
 
-宸插叏閮ㄦ搷浣滃畬鎴�
+⚠️方法一
+
+第一步 进入笑谱 选择手机号登陆，输入手机号，点击获取验证码
+
+第二步 ⚠️进入boxjs（其他平台则输入对应环境变量）  输入当前账号序号   输入手机号  和  验证码
+
+第三步 运行js  手机则自动获取token（其他平台则复制token，填写环境变量）  然后回到boxjs 修改验证码为0
 
 
-鈿狅笍鏂规硶浜�
-
-绗竴姝� 娣诲姞  hostname=veishop.iboxpay.com,
-
-绗簩姝� 鈿狅笍娣诲姞绗戣氨鑾峰彇鏇存柊TOKEN閲嶅啓  
-
-鐧诲綍绗戣氨(鍦ㄧ櫥褰曠姸鎬佸氨閫€鍑猴紝閲嶆柊鐧诲綍)  鑾峰彇鏇存柊TOKEN
+已全部操作完成
 
 
+⚠️方法二
 
-refreshtokenVal 馃憠XP_refreshTOKEN
+第一步 添加  hostname=veishop.iboxpay.com,
 
-璁剧疆浠诲姟 鍙缃� 0 1 2    0寮€瑙嗛鍏崇洿鎾� 1寮€瑙嗛寮€鐩存挱 2鍏宠棰戝紑鐩存挱
- LIVE  馃憠  XP_live
+第二步 ⚠️添加笑谱获取更新TOKEN重写  
 
-璁剧疆鎻愮幇閲戦 鍙缃� 0 1 15 30 50 100  榛樿0鍏抽棴
-CASH  馃憠  XP_CASH
+登录笑谱(在登录状态就退出，重新登录)  获取更新TOKEN
 
-璁剧疆鎵嬫満鍙� 
- phone  馃憠  XP_phone
 
-璁剧疆楠岃瘉鐮�   榛樿0鍏抽棴鑾峰彇token鍔熻兘
-sms  馃憠  XP_sms
 
-鈿狅笍涓绘満鍚嶄互鍙婇噸鍐欚煈�
+refreshtokenVal 👉XP_refreshTOKEN
 
-锛堟墜鏈哄彲浠ヨ幏鍙杛efreshTOKEN     鍏朵粬寮€鍚姄鍖咃紝鐒跺悗鐧诲綍绗戣氨锛屾壘鍒� https://veishop.iboxpay.com/nf_gateway/nf-user-auth-web/ignore_tk/veishop/v1/ 閲岀殑鍝嶅簲浣� refreshTOKEN锛�
+设置任务 可设置 0 1 2    0开视频关直播 1开视频开直播 2关视频开直播
+ LIVE  👉  XP_live
+
+设置提现金额 可设置 0 1 15 30 50 100  默认0关闭
+CASH  👉  XP_CASH
+
+设置手机号 
+ phone  👉  XP_phone
+
+设置验证码   默认0关闭获取token功能
+sms  👉  XP_sms
+
+⚠️主机名以及重写👇
+
+（手机可以获取refreshTOKEN     其他开启抓包，然后登录笑谱，找到 https://veishop.iboxpay.com/nf_gateway/nf-user-auth-web/ignore_tk/veishop/v1/ 里的响应体 refreshTOKEN）
 
 hostname=veishop.iboxpay.com
 
-############## 鍦坸
+############## 圈x
 
-#绗戣氨鑾峰彇鏇存柊TOKEN
+#笑谱获取更新TOKEN
 https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* url script-response-body https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js
 
 ############## loon
-http-response https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* script-path=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, requires-body=1,max-size=0, tag=绗戞櫘token
+http-response https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/* script-path=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, requires-body=1,max-size=0, tag=笑普token
 
 ############## surge
 
-#绗戣氨鑾峰彇鏇存柊TOKEN
-绗戣氨鑾峰彇鏇存柊TOKEN = type=http-response,pattern=https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js
+#笑谱获取更新TOKEN
+笑谱获取更新TOKEN = type=http-response,pattern=https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf-user-auth-web\/ignore_tk\/veishop\/v1\/*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js
 
 
 
 */
-const $ = Env("绗戣氨");
-$.idx = ($.idx = ($.getval('iboxpaySuffix') || '1') - 1) > 0 ? ($.idx + 1 + '') : ''; // 璐﹀彿鎵╁睍瀛楃
+const $ = Env("笑谱");
+$.idx = ($.idx = ($.getval('iboxpaySuffix') || '1') - 1) > 0 ? ($.idx + 1 + '') : ''; // 账号扩展字符
 const notify = $.isNode() ? require("./sendNotify") : ``;
 const COOKIE = $.isNode() ? require("./iboxpayCOOKIE") : ``;
-const logs = 0; // 0涓哄叧闂棩蹇楋紝1涓哄紑鍚�
-const notifyttt = 1 // 0涓哄叧闂閮ㄦ帹閫侊紝1涓�12 23 鐐瑰閮ㄦ帹閫�
-const notifyInterval = 2; // 0涓哄叧闂€氱煡锛�1涓烘墍鏈夐€氱煡锛�2涓�12 23 鐐归€氱煡  锛� 3涓� 6 12 18 23 鐐归€氱煡 
+const logs = 0; // 0为关闭日志，1为开启
+const notifyttt = 1 // 0为关闭外部推送，1为12 23 点外部推送
+const notifyInterval = 2; // 0为关闭通知，1为所有通知，2为12 23 点通知  ， 3为 6 12 18 23 点通知 
 const CS = 5
 $.message = '', COOKIES_SPLIT = '', CASH = '', LIVE = '', phone = '', sms = '', ddtime = '', spid = '', TOKEN = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', zbid = '', cashcs = '', newcashcs = '', liveId = '';
 let livecs = 0,
@@ -123,20 +123,20 @@ const refreshtokenArr = [];
 let refreshtokenVal = ``;
 let middlerefreshTOKEN = [];
 if ($.isNode()) {
-    // 娌℃湁璁剧疆 XP_CASH 鍒欓粯璁や负 0 涓嶆彁鐜�
+    // 没有设置 XP_CASH 则默认为 0 不提现
     CASH = process.env.XP_CASH || 0;
-    // 娌℃湁璁剧疆 XP_live 鍒欓粯璁�0
+    // 没有设置 XP_live 则默认0
     LIVE = process.env.XP_live || 0;
-    // 娌℃湁璁剧疆 XP_phone 鍒欓粯璁や负 0 
+    // 没有设置 XP_phone 则默认为 0 
     phone = process.env.XP_phone || 0;
-    // 娌℃湁璁剧疆 XP_sms 鍒欓粯璁�0  涓嶈幏鍙朤OKEN
+    // 没有设置 XP_sms 则默认0  不获取TOKEN
     sms = process.env.XP_sms || 0
 
 }
 if ($.isNode() && process.env.XP_refreshTOKEN) {
     COOKIES_SPLIT = process.env.COOKIES_SPLIT || "\n";
     console.log(
-        `============ cookies鍒嗛殧绗︿负锛�${JSON.stringify(
+        `============ cookies分隔符为：${JSON.stringify(
       COOKIES_SPLIT
     )} =============\n`
     );
@@ -165,7 +165,7 @@ if (!COOKIE.refreshtokenVal) {
         });
     } else {
         refreshtokenArr.push($.getdata("refreshtoken"));
-        // 鏍规嵁boxjs涓缃殑棰濆璐﹀彿鏁帮紝娣诲姞瀛樺湪鐨勮处鍙锋暟鎹繘琛屼换鍔″鐞�
+        // 根据boxjs中设置的额外账号数，添加存在的账号数据进行任务处理
         if ("iboxpayCASH") {
             CASH = $.getval("iboxpayCASH") || '0';
         }
@@ -194,48 +194,48 @@ function GetCookie() {
         const refreshtokenVal = JSON.parse($response.body).data.refreshToken
         $.setdata(refreshtokenVal, "refreshtoken" + $.idx);
         $.log(
-            `[${$.name + $.idx}] 鑾峰彇refreshtoken鉁�: 鎴愬姛,refreshtokenVal: ${refreshtokenVal}`
+            `[${$.name + $.idx}] 获取refreshtoken✅: 成功,refreshtokenVal: ${refreshtokenVal}`
         );
-        $.msg($.name + $.idx, `鑾峰彇refreshtoken: 鎴愬姛馃帀`, ``);
+        $.msg($.name + $.idx, `获取refreshtoken: 成功🎉`, ``);
     }
 
 }
 console.log(
-    `================== 鑴氭湰鎵ц - 鍖椾含鏃堕棿(UTC+8)锛�${new Date(
+    `================== 脚本执行 - 北京时间(UTC+8)：${new Date(
     new Date().getTime() +
     new Date().getTimezoneOffset() * 60 * 1000 +
     8 * 60 * 60 * 1000
   ).toLocaleString()} =====================\n`
 );
 console.log(
-    `============ 鍏� ${Length} 涓�${$.name}璐﹀彿=============\n`
+    `============ 共 ${Length} 个${$.name}账号=============\n`
 );
-console.log(`============ 鎻愮幇鏍囧噯涓猴細${CASH} =============\n`);
+console.log(`============ 提现标准为：${CASH} =============\n`);
 if (LIVE == 0) {
-    console.log(`============ 鐪嬬洿鎾叧闂紝鐪嬭棰戝紑鍚� =============\n`);
+    console.log(`============ 看直播关闭，看视频开启 =============\n`);
 }
 if (LIVE == 1) {
-    console.log(`============ 鐪嬬洿鎾紑鍚紝鐪嬭棰戝紑鍚� =============\n`);
+    console.log(`============ 看直播开启，看视频开启 =============\n`);
 }
 if (LIVE == 2) {
-    console.log(`============ 鐪嬬洿鎾紑鍚紝鐪嬭棰戝叧闂� =============\n`);
+    console.log(`============ 看直播开启，看视频关闭 =============\n`);
 }
 if (sms >= 1) {
-    console.log(`============ TOKEN鑾峰彇寮€鍚� =============\n`);
+    console.log(`============ TOKEN获取开启 =============\n`);
 }
-//鏃堕棿
+//时间
 nowTimes = new Date(
     new Date().getTime() +
     new Date().getTimezoneOffset() * 60 * 1000 +
     8 * 60 * 60 * 1000
 );
-//浠婂ぉ
+//今天
 Y = nowTimes.getFullYear() + '-';
 M = (nowTimes.getMonth() + 1 < 10 ? '0' + (nowTimes.getMonth() + 1) : nowTimes.getMonth() + 1) + '-';
 D = (nowTimes.getDate() < 10 ? '0' + (nowTimes.getDate()) : nowTimes.getDate());
 ddtime = Y + M + D;
 console.log(ddtime)
-//褰撳墠鏃堕棿鎴�
+//当前时间戳
 function tts(inputTime) {
     if ($.isNode()) {
         TTS = Math.round(new Date().getTime() +
@@ -244,7 +244,7 @@ function tts(inputTime) {
         new Date().getTimezoneOffset() * 60 * 1000 + 8 * 60 * 60 * 1000).toString();
     return TTS;
 };
-//褰撳墠10浣嶆椂闂存埑
+//当前10位时间戳
 function ts(inputTime) {
     if ($.isNode()) {
         TS = Math.round((new Date().getTime() +
@@ -254,7 +254,7 @@ function ts(inputTime) {
         8 * 60 * 60 * 1000) / 1000).toString();
     return TS;
 };
-//浠婂ぉ0鐐规椂闂存埑鏃堕棿鎴�
+//今天0点时间戳时间戳
 function daytime(inputTime) {
     if ($.isNode()) {
         DAYTIME =
@@ -262,7 +262,7 @@ function daytime(inputTime) {
     } else DAYTIME = new Date(new Date().toLocaleDateString()).getTime();
     return DAYTIME;
 };
-//鏃堕棿鎴虫牸寮忓寲鏃ユ湡
+//时间戳格式化日期
 function time(inputTime) {
     if ($.isNode()) {
         var date = new Date(inputTime + 8 * 60 * 60 * 1000);
@@ -275,7 +275,7 @@ function time(inputTime) {
     s = date.getSeconds();
     return Y + M + D + h + m + s;
 };
-//闅忔満udid 澶у啓
+//随机udid 大写
 function udid() {
     var s = [];
     var hexDigits = "0123456789ABCDEF";
@@ -288,14 +288,14 @@ function udid() {
     var uuid = s.join("");
     return uuid;
 }
-//闅忔満udid 灏忓啓
+//随机udid 小写
 function udid2() {
     function S4() {
         return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1);
     }
     return (S4() + S4() + "-" + S4() + "-" + S4() + "-" + S4() + "-" + S4() + S4() + S4());
 }
-//缂栫爜
+//编码
 function encodeUnicode(str) {
     var res = [];
     for (var i = 0; i < str.length; i++) {
@@ -303,7 +303,7 @@ function encodeUnicode(str) {
     }
     return "\\u" + res.join("\\u");
 }
-//瑙ｇ爜
+//解码
 function decodeUnicode(str) {
     str = str.replace(/\\/g, "%");
     return unescape(str);
@@ -325,7 +325,7 @@ if (isGetCookie) {
         await msgShow();
     })()
     .catch((e) => {
-            $.log('', `鉂� ${$.name}, 澶辫触! 鍘熷洜: ${e}!`, '')
+            $.log('', `❌ ${$.name}, 失败! 原因: ${e}!`, '')
         })
         .finally(() => {
             $.done();
@@ -335,7 +335,7 @@ async function all() {
     if (!Length) {
         $.msg(
             $.name,
-            '鎻愮ず锛氣殸锔忚鐐瑰嚮鍓嶅線鑾峰彇https://apps.apple.com/cn/app/%E7%AC%91%E8%B0%B1/id1487075970\n',
+            '提示：⚠️请点击前往获取https://apps.apple.com/cn/app/%E7%AC%91%E8%B0%B1/id1487075970\n',
             'https://apps.apple.com/cn/app/%E7%AC%91%E8%B0%B1/id1487075970', {
                 "open-url": "https://apps.apple.com/cn/app/%E7%AC%91%E8%B0%B1/id1487075970"
             }
@@ -354,53 +354,53 @@ async function all() {
         }
 
 
-        O = (`${$.name + (i + 1)}馃敂`);
-        await console.log(`-------------------------\n\n馃敂寮€濮嬭繍琛屻€�${$.name+(i+1)}銆慲)
+        O = (`${$.name + (i + 1)}🔔`);
+        await console.log(`-------------------------\n\n🔔开始运行【${$.name+(i+1)}】`)
 
-        await refreshtoken(); //鏇存柊TOKEN       
-        let cookie_is_live = await user(i + 1); //鐢ㄦ埛鍚�
+        await refreshtoken(); //更新TOKEN       
+        let cookie_is_live = await user(i + 1); //用户名
         if (!cookie_is_live) {
             continue;
         }
-        await hdid(); //娲诲姩id
-        await goldcoin(); //閲戝竵淇℃伅
-        await coin(); //璐︽埛淇℃伅
-        await sylist(); //鏀剁泭鍒楄〃
-        await splimit(); //瑙嗛涓婇檺
-        await newcashlist(); //鎻愮幇鏌ヨ
-        await cashlist(); //浠婃棩鎻愮幇鏌ヨ
+        await hdid(); //活动id
+        await goldcoin(); //金币信息
+        await coin(); //账户信息
+        await sylist(); //收益列表
+        await splimit(); //视频上限
+        await newcashlist(); //提现查询
+        await cashlist(); //今日提现查询
         if (!cashcs.amount && CASH >= 1 && $.coin.data.balance / 100 >= CASH) {
-            await withdraw(); //鎻愮幇
+            await withdraw(); //提现
         }
 
         if (LIVE >= 1 && nowTimes.getHours() >= 8 && nowTimes.getHours() <= 23 && $.sylist.resultCode && livecs < 20) {
-            await liveslist(); //鐩存挱鑺傜洰琛�
+            await liveslist(); //直播节目表
             if (liveIdcd >= 1) {
                 dd = liveIdcd * 35 - 34
-                console.log(`馃搷鏈鐩存挱杩愯闇€瑕�${dd}绉抈 + '\n')
+                console.log(`📍本次直播运行需要${dd}秒` + '\n')
 
-                await lives(); //鐪嬬洿鎾�
+                await lives(); //看直播
                 await $.wait(dd * 1000)
             }
         }
 
         if (LIVE != 2 && $.splimit.data.isUperLimit == false || LIVE == 888) {
 
-            await playo(); //鎾斁o       
-            await videoo(); //瑙嗛o
+            await playo(); //播放o       
+            await videoo(); //视频o
 
             if (LIVES != 2) {
                 await $.wait(30000)
                 tt = CS * 30 - 29
-                console.log(`馃搷鏈瑙嗛杩愯闇€瑕�${tt}绉抈 + '\n')
-                await play(); //鎾斁       
-                await video(); //瑙嗛
+                console.log(`📍本次视频运行需要${tt}秒` + '\n')
+                await play(); //播放       
+                await video(); //视频
                 await $.wait(tt * 1000)
                 if (LIVE == 666) {
-                    await newvideo(); //鏂颁汉绂忓埄
+                    await newvideo(); //新人福利
                 }
                 if ($.video.data && $.video.data.goldCoinNumber != 0 && videoPublishId6) {
-                    await goldvideo(); //閲戣泲瑙嗛
+                    await goldvideo(); //金蛋视频
                 }
 
 
@@ -411,7 +411,7 @@ async function all() {
 
     }
 }
-//閫氱煡
+//通知
 function msgShow() {
     return new Promise(async resolve => {
         if (notifyInterval != 1) {
@@ -433,7 +433,7 @@ function msgShow() {
 }
 
 
-//TOKEN鑾峰彇  
+//TOKEN获取  
 function getTOKEN(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -459,20 +459,20 @@ function getTOKEN(timeout = 0) {
             }
             $.post(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, TOKEN鑾峰彇馃毄: ${data}`);
+                    if (logs) $.log(`${O}, TOKEN获取🚩: ${data}`);
                     $.getTOKEN = JSON.parse(data);
                     if ($.getTOKEN.resultCode == 1) {
                         const refreshtokenVal = $.getTOKEN.data.refreshToken
                         $.setdata(refreshtokenVal, "refreshtoken" + $.idx);
                         $.log(
-                            `[${$.name + $.idx}] 鑾峰彇refreshtoken鉁�: 鎴愬姛,refreshtokenVal: ${refreshtokenVal}`
+                            `[${$.name + $.idx}] 获取refreshtoken✅: 成功,refreshtokenVal: ${refreshtokenVal}`
                         );
-                        $.msg($.name + $.idx, `鑾峰彇refreshtoken: 鎴愬姛馃帀`, ``);
-                        $.message += '銆怲OKEN鑾峰彇銆戯細鎴愬姛' + $.getTOKEN.data.refreshToken + '\n';
+                        $.msg($.name + $.idx, `获取refreshtoken: 成功🎉`, ``);
+                        $.message += '【TOKEN获取】：成功' + $.getTOKEN.data.refreshToken + '\n';
                     }
                     if ($.getTOKEN.resultCode == 0) {
-                        console.log(`TOKEN鑾峰彇锛�${$.getTOKEN.errorCode}\n`);
-                        $.message += `銆怲OKEN鑾峰彇銆戯細${$.getTOKEN.errorCode}\n`;
+                        console.log(`TOKEN获取：${$.getTOKEN.errorCode}\n`);
+                        $.message += `【TOKEN获取】：${$.getTOKEN.errorCode}\n`;
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -483,7 +483,7 @@ function getTOKEN(timeout = 0) {
         }, timeout)
     })
 }
-//TOKEN鏇存柊  
+//TOKEN更新  
 function refreshtoken(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -511,11 +511,11 @@ function refreshtoken(timeout = 0) {
             }
             $.post(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, TOKEN鏇存柊馃毄: ${data}`);
+                    if (logs) $.log(`${O}, TOKEN更新🚩: ${data}`);
                     $.refreshtoken = JSON.parse(data);
                     if ($.refreshtoken.resultCode == 1) {
                         TOKEN = $.refreshtoken.data.accessToken
-                        console.log('鏇存柊TOKEN鎴愬姛:' + TOKEN + '\n');
+                        console.log('更新TOKEN成功:' + TOKEN + '\n');
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -526,7 +526,7 @@ function refreshtoken(timeout = 0) {
         }, timeout)
     })
 }
-//鐢ㄦ埛鍚�
+//用户名
 function user(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -552,18 +552,18 @@ function user(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 鐢ㄦ埛鍚嶐煔�: ${data}`);
+                    if (logs) $.log(`${O}, 用户名🚩: ${data}`);
                     $.user = JSON.parse(data);
                     if ($.user.resultCode == 1) {
                         $.message += `\n${O}`;
-                        $.message += `\n========== 銆�${$.user.data.customerInfo.nickname}銆� ==========\n`;
+                        $.message += `\n========== 【${$.user.data.customerInfo.nickname}】 ==========\n`;
                         resolve(true);
                     }
 
                     if ($.user.resultCode == 0) {
-                        $.msg(O, time(Number(tts())) + "鉂屸潓鉂孋OOKIE澶辨晥");
+                        $.msg(O, time(Number(tts())) + "❌❌❌COOKIE失效");
                         if ($.isNode()) {
-                            notify.sendNotify(O, time(Number(tts())) + "鉂屸潓鉂孋OOKIE澶辨晥");
+                            notify.sendNotify(O, time(Number(tts())) + "❌❌❌COOKIE失效");
                         }
                         resolve(false);
                     }
@@ -576,7 +576,7 @@ function user(timeout = 0) {
         }, timeout)
     })
 }
-//閲戝竵淇℃伅  
+//金币信息  
 function goldcoin(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -602,9 +602,9 @@ function goldcoin(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 閲戝竵淇℃伅馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 金币信息🚩: ${data}`);
                     $.goldcoin = JSON.parse(data);
-                    $.message += '銆愰噾甯佷俊鎭€戯細浠婃棩閲戝竵' + $.goldcoin.data.coinSum + ',棰勪及閲戦' + $.goldcoin.data.balanceSum / 100 + '鍏僜n';
+                    $.message += '【金币信息】：今日金币' + $.goldcoin.data.coinSum + ',预估金额' + $.goldcoin.data.balanceSum / 100 + '元\n';
                 } catch (e) {
                     $.logErr(e, resp);
                 } finally {
@@ -614,7 +614,7 @@ function goldcoin(timeout = 0) {
         }, timeout)
     })
 }
-//娲诲姩id 
+//活动id 
 function hdid(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -640,15 +640,15 @@ function hdid(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 娲诲姩id馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 活动id🚩: ${data}`);
                     $.hdid = JSON.parse(data);
                     if ($.hdid.resultCode == 1) {
                         spid = $.hdid.data.everyDayActivityList.find(item => item.actTypeId === 9)
                         zbid = $.hdid.data.everyDayActivityList.find(item => item.actTypeId === 10)
-                        console.log(spid.actName + 'ID锛�' + spid.actId + '\n' +
-                            zbid.actName + 'ID锛�' + zbid.actId + '\n');
-                        $.message += '銆�' + spid.actName + 'ID銆戯細' + spid.actId + '\n' +
-                            '銆�' + zbid.actName + 'ID銆戯細' + zbid.actId + '\n';
+                        console.log(spid.actName + 'ID：' + spid.actId + '\n' +
+                            zbid.actName + 'ID：' + zbid.actId + '\n');
+                        $.message += '【' + spid.actName + 'ID】：' + spid.actId + '\n' +
+                            '【' + zbid.actName + 'ID】：' + zbid.actId + '\n';
                     }
 
                 } catch (e) {
@@ -661,7 +661,7 @@ function hdid(timeout = 0) {
     })
 }
 
-//璐︽埛淇℃伅  
+//账户信息  
 function coin(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -687,9 +687,9 @@ function coin(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 璐︽埛淇℃伅馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 账户信息🚩: ${data}`);
                     $.coin = JSON.parse(data);
-                    $.message += '銆愯处鎴蜂俊鎭€戯細鏄庢棩鍏ヨ处' + $.coin.data.tomorrowAmt / 100 + '鍏�,鍙彁浣欓' + $.coin.data.balance / 100 + '鍏僜n';
+                    $.message += '【账户信息】：明日入账' + $.coin.data.tomorrowAmt / 100 + '元,可提余额' + $.coin.data.balance / 100 + '元\n';
                 } catch (e) {
                     $.logErr(e, resp);
                 } finally {
@@ -699,7 +699,7 @@ function coin(timeout = 0) {
         }, timeout)
     })
 }
-//鎾斁o
+//播放o
 function playo(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -713,7 +713,7 @@ function playo(timeout = 0) {
             while (playid < 10000000000000000)
             playbodyVal = `{"videoPublishId":"13${playid}","playTimeLenght":${playTime},"type":1,"videoTime":${playTimess}}`;
             videoPublishId = playbodyVal.substring(playbodyVal.indexOf("videoPublishId") + 17, playbodyVal.indexOf(`","pl`))
-            console.log(`瑙嗛ID1馃搷${videoPublishId}`)
+            console.log(`视频ID1📍${videoPublishId}`)
             let url = {
                 url: `https://veishop.iboxpay.com/nf_gateway/nf_content_service/video/ignore_tk/v1/video_channel/uplaod_play_video_recode.json`,
                 headers: {
@@ -736,7 +736,7 @@ function playo(timeout = 0) {
             }
             $.post(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 鎾斁ID1馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 播放ID1🚩: ${data}`);
                     $.playo = JSON.parse(data);
                 } catch (e) {
                     $.logErr(e, resp);
@@ -748,7 +748,7 @@ function playo(timeout = 0) {
         }, timeout)
     })
 }
-//瑙嗛o
+//视频o
 function videoo(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -777,23 +777,23 @@ function videoo(timeout = 0) {
             }
             $.post(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 瑙嗛馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 视频🚩: ${data}`);
                     $.videoo = JSON.parse(data);
                     if ($.videoo.resultCode == 0) {
                         LIVES = 2
-                        console.log('瑙嗛濂栧姳锛氣殸锔�' + $.videoo.errorDesc + '\n');
-                        $.message += '銆愯棰戝鍔便€戯細鈿狅笍' + $.videoo.errorDesc + '\n'
+                        console.log('视频奖励：⚠️' + $.videoo.errorDesc + '\n');
+                        $.message += '【视频奖励】：⚠️' + $.videoo.errorDesc + '\n'
                     }
                     if ($.videoo.data && $.videoo.data.goldCoinNumber == 0) {
                         LIVES = 2
-                        console.log(`瑙嗛濂栧姳锛氭伃鍠滄偍鐨勮处鍙峰凡鐏帮紝宸叉棤娉曡幏鍙栬棰戝鍔盶n`);
-                        $.message += `銆愯棰戝鍔便€戯細鎭枩鎮ㄧ殑璐﹀彿宸茬伆锛屽凡鏃犳硶鑾峰彇瑙嗛濂栧姳\n`
+                        console.log(`视频奖励：恭喜您的账号已灰，已无法获取视频奖励\n`);
+                        $.message += `【视频奖励】：恭喜您的账号已灰，已无法获取视频奖励\n`
                     }
                     if ($.videoo.data && $.videoo.data.goldCoinNumber != 0) {
                         LIVES = 0
-                        console.log(`寮€濮嬮鍙栫1娆¤棰戝鍔憋紝鑾峰緱${$.videoo.data.goldCoinNumber}閲戝竵\n`);
-                        console.log(`瑙嗛濂栧姳锛氬叡棰嗗彇1娆¤棰戝鍔憋紝鍏�${$.videoo.data.goldCoinNumber}閲戝竵\n`);
-                        $.message += `銆愯棰戝鍔便€戯細鍏遍鍙�1娆¤棰戝鍔憋紝鍏�${$.videoo.data.goldCoinNumber}閲戝竵\n`
+                        console.log(`开始领取第1次视频奖励，获得${$.videoo.data.goldCoinNumber}金币\n`);
+                        console.log(`视频奖励：共领取1次视频奖励，共${$.videoo.data.goldCoinNumber}金币\n`);
+                        $.message += `【视频奖励】：共领取1次视频奖励，共${$.videoo.data.goldCoinNumber}金币\n`
                     }
 
                 } catch (e) {
@@ -809,7 +809,7 @@ function videoo(timeout = 0) {
         }, timeout)
     })
 }
-//鎾斁
+//播放
 function play(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -836,7 +836,7 @@ function play(timeout = 0) {
                     if (i == 4) {
                         videoPublishId6 = playbodyVal.substring(playbodyVal.indexOf("videoPublishId") + 17, playbodyVal.indexOf(`","pl`))
                     }
-                    console.log(`瑙嗛ID${i+2}馃搷${videoPublishId}`)
+                    console.log(`视频ID${i+2}📍${videoPublishId}`)
                     let url = {
                         url: `https://veishop.iboxpay.com/nf_gateway/nf_content_service/video/ignore_tk/v1/video_channel/uplaod_play_video_recode.json`,
                         headers: {
@@ -859,7 +859,7 @@ function play(timeout = 0) {
                     }
                     $.post(url, async (err, resp, data) => {
                         try {
-                            if (logs) $.log(`${O}, 鎾斁ID${i+2}馃毄: ${data}`);
+                            if (logs) $.log(`${O}, 播放ID${i+2}🚩: ${data}`);
                             $.play = JSON.parse(data);
                         } catch (e) {
                             $.logErr(e, resp);
@@ -872,7 +872,7 @@ function play(timeout = 0) {
         }, timeout)
     })
 }
-//瑙嗛
+//视频
 function video(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -906,11 +906,11 @@ function video(timeout = 0) {
                     }
                     $.post(url, async (err, resp, data) => {
                         try {
-                            if (logs) $.log(`${O}, 瑙嗛馃毄: ${data}`);
+                            if (logs) $.log(`${O}, 视频🚩: ${data}`);
                             $.video = JSON.parse(data);
 
                             if ($.video.data && $.video.data.goldCoinNumber != 0) {
-                                console.log(`寮€濮嬮鍙栫${i+2}娆¤棰戝鍔憋紝鑾峰緱${$.video.data.goldCoinNumber}閲戝竵\n`);
+                                console.log(`开始领取第${i+2}次视频奖励，获得${$.video.data.goldCoinNumber}金币\n`);
                                 inss += $.video.data.goldCoinNumber;
                             }
                         } catch (e) {
@@ -923,23 +923,23 @@ function video(timeout = 0) {
             }
             setTimeout(() => {
                 if ($.video.resultCode == 0) {
-                    console.log('瑙嗛濂栧姳锛氣殸锔�' + $.video.errorDesc + '\n');
-                    $.message += '銆愯棰戝鍔便€戯細鈿狅笍' + $.video.errorDesc + '\n'
+                    console.log('视频奖励：⚠️' + $.video.errorDesc + '\n');
+                    $.message += '【视频奖励】：⚠️' + $.video.errorDesc + '\n'
                 }
                 if ($.video.data && $.video.data.goldCoinNumber == 0) {
-                    console.log(`瑙嗛濂栧姳锛氭伃鍠滄偍鐨勮处鍙峰凡鐏帮紝宸叉棤娉曡幏鍙栬棰戝鍔盶n`);
-                    $.message += `銆愯棰戝鍔便€戯細鎭枩鎮ㄧ殑璐﹀彿宸茬伆锛屽凡鏃犳硶鑾峰彇瑙嗛濂栧姳\n`
+                    console.log(`视频奖励：恭喜您的账号已灰，已无法获取视频奖励\n`);
+                    $.message += `【视频奖励】：恭喜您的账号已灰，已无法获取视频奖励\n`
                 }
                 if ($.video.data && $.video.data.goldCoinNumber != 0) {
-                    console.log(`瑙嗛濂栧姳锛氬叡棰嗗彇${CS}娆¤棰戝鍔憋紝鍏�${inss}閲戝竵\n`);
-                    $.message += `銆愯棰戝鍔便€戯細鍏遍鍙�${CS}娆¤棰戝鍔憋紝鍏�${inss}閲戝竵\n`
+                    console.log(`视频奖励：共领取${CS}次视频奖励，共${inss}金币\n`);
+                    $.message += `【视频奖励】：共领取${CS}次视频奖励，共${inss}金币\n`
                 }
             }, CS * 30000 - 29000)
 
         }, timeout)
     })
 }
-//閲戣泲瑙嗛
+//金蛋视频
 function goldvideo(timeout = 40000) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -967,17 +967,17 @@ function goldvideo(timeout = 40000) {
             }
             $.post(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 閲戣泲瑙嗛馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 金蛋视频🚩: ${data}`);
                     $.goldvideo = JSON.parse(data);
                     if ($.goldvideo.resultCode == 1) {
-                        console.log('閲戣泲瑙嗛濂栧姳锛岃幏寰�' + $.goldvideo.data.goldCoinNumber + '閲戝竵')
+                        console.log('金蛋视频奖励，获得' + $.goldvideo.data.goldCoinNumber + '金币')
                         $.message +=
-                            '銆愰噾铔嬭棰戝鍔便€戯細鑾峰緱' + $.goldvideo.data.goldCoinNumber + '閲戝竵\n'
+                            '【金蛋视频奖励】：获得' + $.goldvideo.data.goldCoinNumber + '金币\n'
                     }
                     if ($.goldvideo.resultCode == 0) {
                         console.log($.goldvideo.errorDesc + '\n');
                         $.message +=
-                            '銆愰噾铔嬭棰戝鍔便€戯細' + $.goldvideo.errorDesc + '\n';
+                            '【金蛋视频奖励】：' + $.goldvideo.errorDesc + '\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -988,7 +988,7 @@ function goldvideo(timeout = 40000) {
         }, timeout)
     })
 }
-//鏂颁汉绂忓埄
+//新人福利
 function newvideo(timeout = 40000) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1016,17 +1016,17 @@ function newvideo(timeout = 40000) {
             }
             $.post(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 鏂颁汉绂忓埄馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 新人福利🚩: ${data}`);
                     $.newvideo = JSON.parse(data);
                     if ($.newvideo.resultCode == 1) {
-                        console.log('鏂颁汉绂忓埄濂栧姳锛岃幏寰�' + $.newvideo.data / 100 + '鍏僜n')
+                        console.log('新人福利奖励，获得' + $.newvideo.data / 100 + '元\n')
                         $.message +=
-                            '銆愭柊浜虹鍒╁鍔便€戯細鑾峰緱' + $.newvideo.data / 100 + '鍏僜n'
+                            '【新人福利奖励】：获得' + $.newvideo.data / 100 + '元\n'
                     }
                     if ($.newvideo.resultCode == 0) {
                         console.log($.newvideo.errorDesc + '\n');
                         $.message +=
-                            '銆愭柊浜虹鍒╁鍔便€戯細' + $.newvideo.errorDesc + '\n';
+                            '【新人福利奖励】：' + $.newvideo.errorDesc + '\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -1037,7 +1037,7 @@ function newvideo(timeout = 40000) {
         }, timeout)
     })
 }
-//鐩存挱鑺傜洰琛�
+//直播节目表
 function liveslist(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1065,18 +1065,18 @@ function liveslist(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 鐩存挱鑺傜洰琛煔�: ${data}`);
+                    if (logs) $.log(`${O}, 直播节目表🚩: ${data}`);
                     $.liveslist = JSON.parse(data);
                     if ($.liveslist.resultCode == 1 && $.liveslist.data.liveIdList.length) {
                         liveId = $.liveslist.data.liveIdList
                         liveIdcd = liveId.length
                     }
-                    console.log(`鐩存挱鑺傜洰琛紝褰撳墠${liveIdcd}涓洿鎾璡n`);
-                    $.message += `銆愮洿鎾妭鐩〃銆戯細褰撳墠${liveIdcd}涓洿鎾璡n`
+                    console.log(`直播节目表，当前${liveIdcd}个直播\n`);
+                    $.message += `【直播节目表】：当前${liveIdcd}个直播\n`
 
                     if ($.liveslist.resultCode == 0) {
                         console.log($.liveslist.errorDesc + '\n');
-                        $.message += '銆愮洿鎾妭鐩〃銆戯細' + $.liveslist.errorDesc + '\n';
+                        $.message += '【直播节目表】：' + $.liveslist.errorDesc + '\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -1087,7 +1087,7 @@ function liveslist(timeout = 0) {
         }, timeout)
     })
 }
-//鐩存挱
+//直播
 function lives(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1124,16 +1124,16 @@ function lives(timeout = 0) {
                     }
                     $.post(url, async (err, resp, data) => {
                         try {
-                            if (logs) $.log(`${O}, 鐩存挱馃毄: ${data}`);
+                            if (logs) $.log(`${O}, 直播🚩: ${data}`);
                             $.lives = JSON.parse(data);
 
                             if ($.lives.resultCode == 1) {
                                 ins += $.lives.data.goldCoinAmt;
-                                console.log(`寮€濮嬮鍙栫${i+1}娆＄洿鎾鍔憋紝鑾峰緱${$.lives.data.goldCoinAmt}閲戝竵,绛夊緟${RT/1000}绉掔户缁璡n`);
+                                console.log(`开始领取第${i+1}次直播奖励，获得${$.lives.data.goldCoinAmt}金币,等待${RT/1000}秒继续\n`);
 
                             }
                             if ($.lives.resultCode == 0) {
-                                console.log(`寮€濮嬮鍙栫${i+1}娆＄洿鎾鍔憋紝${$.lives.errorDesc},绛夊緟${RT/1000}绉掔户缁璡n`);
+                                console.log(`开始领取第${i+1}次直播奖励，${$.lives.errorDesc},等待${RT/1000}秒继续\n`);
                             }
                         } catch (e) {
                             $.logErr(e, resp);
@@ -1146,13 +1146,13 @@ function lives(timeout = 0) {
 
             }
             setTimeout(() => {
-                console.log(`鐩存挱濂栧姳锛氬叡棰嗗彇${ins/500}娆＄洿鎾鍔憋紝鍏�${ins}閲戝竵\n`);
-                $.message += `銆愮洿鎾鍔便€戯細鍏遍鍙�${ins/500}娆＄洿鎾鍔憋紝鍏�${ins}閲戝竵\n`
+                console.log(`直播奖励：共领取${ins/500}次直播奖励，共${ins}金币\n`);
+                $.message += `【直播奖励】：共领取${ins/500}次直播奖励，共${ins}金币\n`
             }, liveIdcd * 35000 - 34000)
         }, timeout)
     })
 }
-//鏀剁泭鍒楄〃
+//收益列表
 function sylist(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1178,7 +1178,7 @@ function sylist(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 鏀剁泭鍒楄〃馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 收益列表🚩: ${data}`);
                     $.sylist = JSON.parse(data);
 
                     if ($.sylist.resultCode == 1 && data.match(/"actTypeId":11,/g)) {
@@ -1198,20 +1198,20 @@ function sylist(timeout = 0) {
                     } else videoscs = 0;
 
                     spsy = $.goldcoin.data.coinSum - livecs * 500
-                    console.log('宸茶幏寰楃孩鍖呴洦濂栧姳 ' + hbycs + ' 娆n')
+                    console.log('已获得红包雨奖励 ' + hbycs + ' 次\n')
                     $.message +=
-                        '銆愮孩鍖呴洦鏀剁泭銆戯細宸茶幏寰楃孩鍖呴洦濂栧姳 ' + hbycs + ' 娆n'
-                    console.log('宸茶幏寰楃洿鎾鍔� ' + livecs + ' 娆★紝鍏�' + livecs * 500 + '閲戝竵\n')
+                        '【红包雨收益】：已获得红包雨奖励 ' + hbycs + ' 次\n'
+                    console.log('已获得直播奖励 ' + livecs + ' 次，共' + livecs * 500 + '金币\n')
                     $.message +=
-                        '銆愮洿鎾敹鐩娿€戯細宸茶幏寰楃洿鎾鍔� ' + livecs + ' 娆★紝鍏�' + livecs * 500 + '閲戝竵\n'
-                    console.log('宸茶幏寰楄棰戝鍔� ' + videoscs + ' 娆★紝鍏�' + spsy + '閲戝竵\n')
+                        '【直播收益】：已获得直播奖励 ' + livecs + ' 次，共' + livecs * 500 + '金币\n'
+                    console.log('已获得视频奖励 ' + videoscs + ' 次，共' + spsy + '金币\n')
                     $.message +=
-                        '銆愯棰戞敹鐩娿€戯細宸茶幏寰楄棰戝鍔� ' + videoscs + ' 娆★紝鍏�' + spsy + '閲戝竵\n'
+                        '【视频收益】：已获得视频奖励 ' + videoscs + ' 次，共' + spsy + '金币\n'
 
                     if ($.sylist.resultCode == 0) {
                         console.log($.sylist.errorDesc + '\n');
                         $.message +=
-                            '銆愭敹鐩婂垪琛ㄣ€戯細' + $.sylist.errorDesc + '\n';
+                            '【收益列表】：' + $.sylist.errorDesc + '\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -1222,7 +1222,7 @@ function sylist(timeout = 0) {
         }, timeout)
     })
 }
-//瑙嗛涓婇檺  
+//视频上限  
 function splimit(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1248,15 +1248,15 @@ function splimit(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 瑙嗛涓婇檺馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 视频上限🚩: ${data}`);
                     $.splimit = JSON.parse(data);
                     if ($.splimit.resultCode == 1) {
-                        console.log('瑙嗛涓婇檺锛氫粖鏃ヤ笂闄�' + $.splimit.data.goldCoinDayLimit + '閲戝竵,浠婃棩鏈緱' + ($.splimit.data.goldCoinDayLimit - spsy) + '閲戝竵\n');
-                        $.message += '銆愯棰戜笂闄愩€戯細浠婃棩涓婇檺' + $.splimit.data.goldCoinDayLimit + '閲戝竵,浠婃棩鏈緱' + ($.splimit.data.goldCoinDayLimit - spsy) + '閲戝竵\n';
+                        console.log('视频上限：今日上限' + $.splimit.data.goldCoinDayLimit + '金币,今日未得' + ($.splimit.data.goldCoinDayLimit - spsy) + '金币\n');
+                        $.message += '【视频上限】：今日上限' + $.splimit.data.goldCoinDayLimit + '金币,今日未得' + ($.splimit.data.goldCoinDayLimit - spsy) + '金币\n';
                     }
                     if ($.splimit.data.isUperLimit == true) {
-                        console.log('瑙嗛涓婇檺锛氫粖鏃ヨ揪鍒颁笂闄怽n');
-                        $.message += '銆愯棰戜笂闄愩€戯細浠婃棩杈惧埌涓婇檺\n';
+                        console.log('视频上限：今日达到上限\n');
+                        $.message += '【视频上限】：今日达到上限\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -1267,7 +1267,7 @@ function splimit(timeout = 0) {
         }, timeout)
     })
 }
-//鎻愮幇璁板綍
+//提现记录
 function newcashlist(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1293,15 +1293,15 @@ function newcashlist(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 鎻愮幇璁板綍馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 提现记录🚩: ${data}`);
                     $.newcashlist = JSON.parse(data);
-                    if ($.newcashlist.resultCode == 1 && data.match(/鏂颁汉绂忓埄/g)) {
-                        newcashcs = $.newcashlist.data.records.find(item => item.tradeTypeName === "鏂颁汉绂忓埄")
+                    if ($.newcashlist.resultCode == 1 && data.match(/新人福利/g)) {
+                        newcashcs = $.newcashlist.data.records.find(item => item.tradeTypeName === "新人福利")
                     }
                     if ($.newcashlist.resultCode == 0) {
                         console.log($.newcashlist.errorDesc + '\n');
                         $.message +=
-                            '銆愭柊浜虹鍒┿€戯細' + $.newcashlist.errorDesc + '\n';
+                            '【新人福利】：' + $.newcashlist.errorDesc + '\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -1312,7 +1312,7 @@ function newcashlist(timeout = 0) {
         }, timeout)
     })
 }
-//浠婃棩鎻愮幇璁板綍
+//今日提现记录
 function cashlist(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1338,18 +1338,18 @@ function cashlist(timeout = 0) {
             }
             $.get(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 浠婃棩鎻愮幇璁板綍馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 今日提现记录🚩: ${data}`);
                     $.cashlist = JSON.parse(data);
-                    if ($.cashlist.resultCode == 1 && data.match(/鎻愮幇/g)) {
-                        cashcs = $.cashlist.data.records.find(item => item.tradeTypeName === "鎻愮幇")
-                        console.log('浠婃棩宸叉彁鐜�' + cashcs.amount / 100 + '鍏僜n')
+                    if ($.cashlist.resultCode == 1 && data.match(/提现/g)) {
+                        cashcs = $.cashlist.data.records.find(item => item.tradeTypeName === "提现")
+                        console.log('今日已提现' + cashcs.amount / 100 + '元\n')
                         $.message +=
-                            '銆愭彁鐜版煡璇€戯細浠婃棩宸叉彁鐜�' + cashcs.amount / 100 + '鍏僜n'
+                            '【提现查询】：今日已提现' + cashcs.amount / 100 + '元\n'
                     }
                     if ($.cashlist.resultCode == 0) {
                         console.log($.cashlist.errorDesc + '\n');
                         $.message +=
-                            '銆愭彁鐜版煡璇€戯細' + $.cashlist.errorDesc + '\n';
+                            '【提现查询】：' + $.cashlist.errorDesc + '\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
@@ -1360,7 +1360,7 @@ function cashlist(timeout = 0) {
         }, timeout)
     })
 }
-//鎻愮幇
+//提现
 function withdraw(timeout = 0) {
     return new Promise((resolve) => {
         setTimeout(() => {
@@ -1392,17 +1392,17 @@ function withdraw(timeout = 0) {
             }
             $.post(url, async (err, resp, data) => {
                 try {
-                    if (logs) $.log(`${O}, 鎻愮幇馃毄: ${data}`);
+                    if (logs) $.log(`${O}, 提现🚩: ${data}`);
                     $.withdraw = JSON.parse(data);
                     if ($.withdraw.resultCode == 1 && $.withdraw.data.withdrawRes == 1) {
-                        console.log('鎴愬姛鎻愮幇 ' + CASH + ' 鍏僜n')
+                        console.log('成功提现 ' + CASH + ' 元\n')
                         $.message +=
-                            '銆愪綑棰濇彁鐜般€戯細鎴愬姛鎻愮幇 ' + CASH + ' 鍏僜n'
+                            '【余额提现】：成功提现 ' + CASH + ' 元\n'
                     }
                     if ($.withdraw.resultCode == 0) {
                         console.log($.withdraw.errorDesc + '\n');
                         $.message +=
-                            '銆愪綑棰濇彁鐜般€戯細' + $.withdraw.errorDesc + '\n';
+                            '【余额提现】：' + $.withdraw.errorDesc + '\n';
                     }
                 } catch (e) {
                     $.logErr(e, resp);
