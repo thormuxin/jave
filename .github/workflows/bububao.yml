@@ -23,12 +23,12 @@ jobs:
         with:
           node-version: 12.x
       - name: npm install
-        if: env.XL_URL
+        if: env.BBB_bububaoTOKEN
         run: |
           cd ~/jave
           npm install
       - name: '运行 【bububao.js】'
-        if: env.XL_URL
+        if: env.BBB_bububaoTOKEN
         run: |
           cd ~/jave
           node Task/bububao.js
