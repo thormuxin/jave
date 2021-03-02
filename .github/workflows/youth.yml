@@ -26,7 +26,6 @@ jobs:
           node-version: 12.x
       - name: npm install
         run: |
-          cd ~/jave
           npm install
       - name: '运行 【youth.js】'
         run: |
