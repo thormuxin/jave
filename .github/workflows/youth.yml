@@ -1,26 +1,26 @@
-name: youth.js
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+#多帐号YOUTH_HEADER 用#号隔开，其它的用&隔开
+name: youth(中青看点)
 
 on:
   workflow_dispatch:
   schedule:
-     - cron: '10 */1 * * *'
+     - cron: '0/15 * * * *'
   watch:
-    types: started
+    types: youth
+
 jobs:
   build:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     env:
-        YOUTH_HEADER: ${{ secrets.YOUTH_HEADER}}
-        YOUTH_ARTBODY: ${{ secrets.YOUTH_ARTBODY}}
-        YOUTH_TIME: ${{ secrets.YOUTH_TIME}}
+        YOUTH_HEADER: ${{ secrets.YOUTH_HEADER }}
+        YOUTH_ARTBODY: ${{ secrets.YOUTH_ARTBODY }}
         YOUTH_REDBODY: ${{ secrets.YOUTH_REDBODY }}
-        YOUTH_NOTIFY_CONTROL: ${{ secrets.YOUTH_NOTIFY_CONTROL}}
-
+        YOUTH_TIME: ${{ secrets.YOUTH_TIME }}
     steps:
-      - name: Checkout
-        run: |
-          git clone https://github.com/thormuxin/jave.git ~/jave
+      - uses: actions/checkout@v1
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:
@@ -28,15 +28,13 @@ jobs:
       - name: npm install
         if: env.YOUTH_HEADER
         run: |
-          cd ~/jave
           npm install
-      - name: '运行 【youth.js】'
+      - name: '运行 【中青看点】'
         if: env.YOUTH_HEADER
         run: |
-          cd ~/jave
-          node Task/youth.js
+          node youth.js
         env:
-          
+          YOUTH_NOTIFY_CONTROL: ${{ secrets.YOUTH_NOTIFY_CONTROL }}
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
           BARK_PUSH: ${{ secrets.BARK_PUSH }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
