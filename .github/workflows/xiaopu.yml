@@ -1,4 +1,4 @@
-name: xiaopu
+name: iboxpay
 
 on:
     workflow_dispatch:
@@ -7,7 +7,7 @@ on:
     watch:
       types: [started]
     repository_dispatch:
-      types: xiaopu
+      types: iboxpay
 
 jobs:
   build:
@@ -24,7 +24,7 @@ jobs:
           npm install
       - name: '运行 【笑谱】'
         run: |
-          node Task/xiaopu.js
+          node Task/iboxpay.js
         env:
           XP_refreshTOKEN: ${{ secrets.XP_refreshTOKEN}}
           XP_live: ${{ secrets.XP_live }}
