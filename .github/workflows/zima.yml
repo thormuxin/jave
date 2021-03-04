@@ -24,6 +24,7 @@ jobs:
           npm install
       - name: '运行 【zhima】'
         run: |
+          cd ~/jave
           node Task/zhima.js.
         env:
           ZM_zhimabody: ${{ secrets.ZM_zhimabody }}
