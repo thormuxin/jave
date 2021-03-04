@@ -24,7 +24,7 @@ jobs:
           npm install
       - name: '运行 【crazyjoy挂机】'
         run: |
-          node Task/jd_crazy_joy_coin.js.js
+          node Task/jd_crazy_joy_coin.js
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
