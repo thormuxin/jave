@@ -1,38 +1,79 @@
-name: iboxpay
+# ziye
+# github地址  https://github.com/6Svip120apk69
+# TG频道地址  https://t.me/ziyescript
+# TG交流群    https://t.me/joinchat/thormuxinAAE7XHm-q1-7Np-tF3g
+# boxjs链接   https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/ziye.boxjs.json
+
+
+
+# ⚠️⚠️⚠️特别重要,务必进行替换操作，不得使用原作者地址
+
+# 具体方法请看: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+
+
+#  以账号    thormuxin
+#  仓库地址  https://github.com/thormuxin/jave 
+#  文件地址   https://raw.githubusercontent.com/thormuxin/jave/ZIYE/Task/iboxpay.js    为例 
+
+
+# 主要替换的字符👇
+
+# xiaopu     //js名字
+# 0 0-15   //定时，如北京时间8到23点，设置0-15
+# XP_refreshTOKEN   //环境变量之一，47行处自行添加其他
+# thormuxin      //账号名
+# jave      //仓库名
+# ZIYE     //分支名
+# Task/iboxpay.js  //子文件地址
+
+
+
+
+name: xiaopu
 
 on:
-    workflow_dispatch:
-    schedule:
-      - cron: "*/30 * * * *"
-    watch:
-      types: [started]
-    repository_dispatch:
-      types: iboxpay
-
+  workflow_dispatch:
+  schedule:
+     - cron: '*/30 * * * *'
+  watch:
+    types: started
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    env:
+        XP_refreshTOKEN: ${{ secrets.XP_refreshTOKEN }}
+        XL_HEADER: ${{ secrets.XL_HEADER }}		
+        
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        run: |
+          git clone https://github.com/thormuxin/jave.git ~/jave
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
       - name: npm install
+        if: env.XP_refreshTOKEN
         run: |
+          cd ~/jave
+          git checkout ZIYE
           npm install
-      - name: '运行 【笑谱】'
+      - name: '运行 【xiaopu】'
+        if: env.XP_refreshTOKEN
         run: |
+          cd ~/jave
           node Task/iboxpay.js
         env:
-          XP_refreshTOKEN: ${{ secrets.XP_refreshTOKEN}}
           XP_live: ${{ secrets.XP_live }}
           XP_CASH: ${{ secrets.XP_CASH}}
           XP_phone: ${{ secrets.XP_phone}}
           XP_sms: ${{ secrets.XP_sms}}
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
           BARK_PUSH: ${{ secrets.BARK_PUSH }}
-          BARK_SOUND: ${{ secrets.BARK_SOUND }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
+          BARK_SOUND: ${{ secrets.BARK_SOUND }}
+          DD_BOT_TOKEN: ${{ secrets.DD_BOT_TOKEN }}
+          DD_BOT_SECRET: ${{ secrets.DD_BOT_SECRET }}
