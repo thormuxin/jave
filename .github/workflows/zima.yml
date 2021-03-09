@@ -66,6 +66,7 @@ jobs:
           cd ~/jave
           node Task/zhima.js
         env:
+          ZM_zhimatxbody: ${{ secrets.ZM_zhimatxbody }} 
           ZM_CASH: ${{ secrets.ZM_CASH }}          
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
           BARK_PUSH: ${{ secrets.BARK_PUSH }}
