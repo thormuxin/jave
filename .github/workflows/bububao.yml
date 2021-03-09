@@ -26,6 +26,7 @@ jobs:
         if: env.BBB_bububaoTOKEN
         run: |
           cd ~/jave
+          git checkout ZIYE
           npm install
       - name: '运行 【bububao.js】'
         if: env.BBB_bububaoTOKEN
