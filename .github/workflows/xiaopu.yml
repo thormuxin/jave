@@ -70,6 +70,8 @@ jobs:
           XP_CASH: ${{ secrets.XP_CASH}}
           XP_phone: ${{ secrets.XP_phone}}
           XP_sms: ${{ secrets.XP_sms}}
+          XP_iboxpayvideoHEADER: ${{ secrets.XP_iboxpayvideoHEADER}}
+          XP_iboxpayvideoBODY: ${{ secrets.XP_iboxpayvideoBODY}}
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
           BARK_PUSH: ${{ secrets.BARK_PUSH }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
